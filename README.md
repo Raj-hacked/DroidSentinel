@@ -26,6 +26,9 @@ DroidSentinel is a powerful, open-source static analysis tool that scans Android
            Android APK Static Vulnerability Scanner by Ch3tanbug
 
 ```
+![Screenshot 1](https://raw.githubusercontent.com/ch3tanbug/DroidSentinel/refs/heads/main/images/Screenshot%202025-03-07%20at%2011.06.44%E2%80%AFAM.png)
+
+![Screenshot 2](https://raw.githubusercontent.com/ch3tanbug/DroidSentinel/refs/heads/main/images/Screenshot%202025-03-07%20at%2011.08.03%E2%80%AFAM.png)
 
 ## 🚀 Installation
 
