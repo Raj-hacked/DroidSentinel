@@ -47,8 +47,8 @@ pip install droidsentinel
 ### Option 2: From source
 
 ```bash
-git clone https://github.com/ch3tanbug/droidsentinel.git
-cd droidsentinel
+git clone https://github.com/ch3tanbug/DroidSentinel.git
+cd DroidSentinel
 pip install -r requirements.txt
 
 ```
