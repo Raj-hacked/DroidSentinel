@@ -86,7 +86,7 @@ class APKAnalyzer:
         
         try:
             print(f"{Fore.BLUE}[*] Running apktool... (this may take a moment){Style.RESET_ALL}")
-            subprocess.run(["apktool","-j","1", "d", self.apk_path, "-o", self.decompiled_dir, "-f"], 
+            subprocess.run(["apktool","-j1", "d", self.apk_path, "-o", self.decompiled_dir, "-f"], 
                            check=True, capture_output=True, text=True)
             print(f"{Fore.GREEN}[+] Decompilation successful{Style.RESET_ALL}")
             return True
